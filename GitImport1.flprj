@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains several starter topics and other files intended for online HTML5 output with top navigation like a modern website, instead of the more traditional tripane format. It includes several features that you might use in online output, and the content and files have been designed to maximize single-sourcing capabilities. This template starts you out with two HTML5 targets. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen. The template also includes multiple PDF targets for generating user guides with different content in different sizes; some with crop and registration marks set, some without. You can add other kinds of targets and skins if you like."
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="True"
+  IncludePattern="*.*"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2019-03-14T07:23:09.7503263-05:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/GitImport2.flprj"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/GitImport2.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../GitImport2/Project/Targets/NewTarget.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/NewTarget.fltar" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../GitImport2/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Home.htm" />
+    <Url
+      Source="../GitImport2/Content/Read First.pdf"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Read First.pdf" />
+    <Url
+      Source="../GitImport2/Content/A_Getting Started/Basic Steps.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/A_Getting Started/Basic Steps.htm" />
+    <Url
+      Source="../GitImport2/Content/A_Getting Started/Getting Started.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/A_Getting Started/Getting Started.htm" />
+    <Url
+      Source="../GitImport2/Content/A_Getting Started/Whats New.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/A_Getting Started/Whats New.htm" />
+    <Url
+      Source="../GitImport2/Content/B_Links and Lists/Links.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/B_Links and Lists/Links.htm" />
+    <Url
+      Source="../GitImport2/Content/B_Links and Lists/LinksAndLists.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/B_Links and Lists/LinksAndLists.htm" />
+    <Url
+      Source="../GitImport2/Content/B_Links and Lists/Lists.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/B_Links and Lists/Lists.htm" />
+    <Url
+      Source="../GitImport2/Content/C_Conditions Notes Tables/Conditions.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/C_Conditions Notes Tables/Conditions.htm" />
+    <Url
+      Source="../GitImport2/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" />
+    <Url
+      Source="../GitImport2/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+    <Url
+      Source="../GitImport2/Content/C_Conditions Notes Tables/Tables.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/C_Conditions Notes Tables/Tables.htm" />
+    <Url
+      Source="../GitImport2/Content/D_Images/ImagePositionedLeft.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/D_Images/ImagePositionedLeft.htm" />
+    <Url
+      Source="../GitImport2/Content/D_Images/ImagePositionedRight.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/D_Images/ImagePositionedRight.htm" />
+    <Url
+      Source="../GitImport2/Content/D_Images/Images.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/D_Images/Images.htm" />
+    <Url
+      Source="../GitImport2/Content/D_Images/ImageWithAbsolutePosition.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/D_Images/ImageWithAbsolutePosition.htm" />
+    <Url
+      Source="../GitImport2/Content/D_Images/ImageWithinList.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/D_Images/ImageWithinList.htm" />
+    <Url
+      Source="../GitImport2/Content/D_Images/Positioned Images.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/D_Images/Positioned Images.htm" />
+    <Url
+      Source="../GitImport2/Content/D_Images/ThumbnailImage.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/D_Images/ThumbnailImage.htm" />
+    <Url
+      Source="../GitImport2/Content/E_Footer Topics/Company Information.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/E_Footer Topics/Company Information.htm" />
+    <Url
+      Source="../GitImport2/Content/E_Footer Topics/FAQs.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/E_Footer Topics/FAQs.htm" />
+    <Url
+      Source="../GitImport2/Content/E_Footer Topics/PDF Downloads.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/E_Footer Topics/PDF Downloads.htm" />
+    <Url
+      Source="../GitImport2/Content/E_Footer Topics/Tips.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/E_Footer Topics/Tips.htm" />
+    <Url
+      Source="../GitImport2/Content/Print Only Topics/Appendix.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Print Only Topics/Appendix.htm" />
+    <Url
+      Source="../GitImport2/Content/Print Only Topics/Copyright.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Print Only Topics/Copyright.htm" />
+    <Url
+      Source="../GitImport2/Content/Print Only Topics/Glossary.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Print Only Topics/Glossary.htm" />
+    <Url
+      Source="../GitImport2/Content/Print Only Topics/Index.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Print Only Topics/Index.htm" />
+    <Url
+      Source="../GitImport2/Content/Print Only Topics/Title.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Print Only Topics/Title.htm" />
+    <Url
+      Source="../GitImport2/Content/Print Only Topics/TOC.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Print Only Topics/TOC.htm" />
+    <Url
+      Source="../GitImport2/Content/Print Only Topics/Welcome.htm"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Print Only Topics/Welcome.htm" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/BackgroundImage.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/BackgroundImage.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/BasicSteps.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/BasicSteps.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet1.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet1.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet1Online.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet1Online.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet1OnlineLight.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet1OnlineLight.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet1Print.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet1Print.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet1PrintLight.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet1PrintLight.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet2.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet2.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet2Online.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet2Online.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet2OnlineLight.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet2OnlineLight.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet2Print.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet2Print.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Bullet2PrintLight.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Bullet2PrintLight.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/CompanyLogo.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/CompanyLogo.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/DropDownClosed.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/DropDownClosed.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/DropDownClosedSecondLevel.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/DropDownClosedSecondLevel.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/DropDownOpen.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/DropDownOpen.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/DropDownOpenSecondLevel.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/DropDownOpenSecondLevel.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/FacebookIcon.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/FacebookIcon.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/FAQs.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/FAQs.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/FooterCircle.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/FooterCircle.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/FooterCircleBlack.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/FooterCircleBlack.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/FooterLogo.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/FooterLogo.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/FooterLogoBlack.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/FooterLogoBlack.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/GreenCheck.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/GreenCheck.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/Image.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/Image.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/KeyFeatures.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/KeyFeatures.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/NoteIcon.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/NoteIcon.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/PDF Cover.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/PDF Cover.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/QuotationMark.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/QuotationMark.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/RedX.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/RedX.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/SaveButton.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/SaveButton.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/TitlePageBackground.eps"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/TitlePageBackground.eps" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/TwitterIcon.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/TwitterIcon.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/Images/WhatsNew.png"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Images/WhatsNew.png" />
+    <Url
+      Source="../GitImport2/Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="../GitImport2/Content/Resources/MasterPages/OtherTopics.flmsp"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="../GitImport2/Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/7X9/ChaptersLandscape9X7.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/7X9/ChaptersLandscape9X7.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/7X9/Copyright7X9.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/7X9/Copyright7X9.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/7X9/Glossary7X9.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/7X9/Glossary7X9.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/7X9/Index7X9.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/7X9/Index7X9.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/7X9/Title7X9.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/7X9/Title7X9.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/7X9/TOC7X9.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/7X9/TOC7X9.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/8_5X11/ChaptersLandscape8_5X11.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/8_5X11/ChaptersLandscape8_5X11.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/8_5X11/Copyright8_5X11.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/8_5X11/Copyright8_5X11.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/8_5X11/Glossary8_5X11.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/8_5X11/Glossary8_5X11.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/8_5X11/Index8_5X11.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/8_5X11/Index8_5X11.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/8_5X11/Title8_5X11.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/8_5X11/Title8_5X11.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/PageLayouts/8_5X11/TOC8_5X11.flpgl"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/PageLayouts/8_5X11/TOC8_5X11.flpgl" />
+    <Url
+      Source="../GitImport2/Content/Resources/Snippets/MiniTOC.flsnp"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Snippets/MiniTOC.flsnp" />
+    <Url
+      Source="../GitImport2/Content/Resources/Stylesheets/MainStyles.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Stylesheets/MainStyles.css" />
+    <Url
+      Source="../GitImport2/Content/Resources/Stylesheets/StylesForHomePage.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="../GitImport2/Content/Resources/TableStyles/PatternedRows.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/TableStyles/PatternedRows.css" />
+    <Url
+      Source="../GitImport2/Content/Resources/TableStyles/PatternedRowsOnDarkBackground.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/TableStyles/PatternedRowsOnDarkBackground.css" />
+    <Url
+      Source="../GitImport2/Content/Resources/TableStyles/Simple.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/TableStyles/Simple.css" />
+    <Url
+      Source="../GitImport2/Content/Resources/TableStyles/SimpleWithPadding.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/TableStyles/SimpleWithPadding.css" />
+    <Url
+      Source="../GitImport2/Content/Resources/TableStyles/Standard.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/TableStyles/Standard.css" />
+    <Url
+      Source="../GitImport2/Content/Resources/TableStyles/StandardOnDarkBackground.css"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Content/Resources/TableStyles/StandardOnDarkBackground.css" />
+    <Url
+      Source="../GitImport2/Project/ConditionTagSets/General.flcts"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/ConditionTagSets/General.flcts" />
+    <Url
+      Source="../GitImport2/Project/ConditionTagSets/PrintGuides.flcts"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/ConditionTagSets/PrintGuides.flcts" />
+    <Url
+      Source="../GitImport2/Project/Glossaries/Glossary.flglo"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Glossaries/Glossary.flglo" />
+    <Url
+      Source="../GitImport2/Project/Reports/Critical Issues Report.flrep"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="../GitImport2/Project/Reports/Empty Report.flrep"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Reports/Empty Report.flrep" />
+    <Url
+      Source="../GitImport2/Project/Reports/Unused Items Report.flrep"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Reports/Unused Items Report.flrep" />
+    <Url
+      Source="../GitImport2/Project/Skins/HomeSearchBar.flskn"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Skins/HomeSearchBar.flskn" />
+    <Url
+      Source="../GitImport2/Project/Skins/HTML5 - Top Navigation.flskn"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="../GitImport2/Project/Skins/SideMenu.flskn"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Skins/SideMenu.flskn" />
+    <Url
+      Source="../GitImport2/Project/Skins/SideMenuFixed.flskn"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Skins/SideMenuFixed.flskn" />
+    <Url
+      Source="../GitImport2/Project/Skins/TopicToolBar.flskn"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Skins/TopicToolBar.flskn" />
+    <Url
+      Source="../GitImport2/Project/Targets/Online Output/HTML5 - Top Navigation FixedSideMenu.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/Online Output/HTML5 - Top Navigation FixedSideMenu.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/Online Output/HTML5 - Top Navigation.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/Online Output/HTML5 - Top Navigation.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF/UserGuideA7X9.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF/UserGuideA7X9.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF/UserGuideA8_5X11.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF/UserGuideA8_5X11.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF/UserGuideB7X9.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF/UserGuideB7X9.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF/UserGuideB8_5X11.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF/UserGuideB8_5X11.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA7X9CRM.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA7X9CRM.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA8_5X11CRM.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideA8_5X11CRM.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB7X9CRM.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB7X9CRM.fltar" />
+    <Url
+      Source="../GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB8_5X11CRM.fltar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/Targets/PDF - Crop Reg Marks (CRM)/UserGuideB8_5X11CRM.fltar" />
+    <Url
+      Source="../GitImport2/Project/TOCs/Online Output.fltoc"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/TOCs/Online Output.fltoc" />
+    <Url
+      Source="../GitImport2/Project/TOCs/User Guide A 7X9.fltoc"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/TOCs/User Guide A 7X9.fltoc" />
+    <Url
+      Source="../GitImport2/Project/TOCs/User Guide A 8_5X11.fltoc"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/TOCs/User Guide A 8_5X11.fltoc" />
+    <Url
+      Source="../GitImport2/Project/TOCs/User Guide B 7X9.fltoc"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/TOCs/User Guide B 7X9.fltoc" />
+    <Url
+      Source="../GitImport2/Project/TOCs/User Guide B 8_5X11.fltoc"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/TOCs/User Guide B 8_5X11.fltoc" />
+    <Url
+      Source="../GitImport2/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Users/dschneider/Documents/My Projects/GitImport2/Project/VariableSets/General.flvar" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="Project/Targets/NewTarget.fltar"
+      TimeStamp="3/14/2019 7:22:31 AM" />
+  </GeneratedFiles>
+</CatapultProject>
